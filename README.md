@@ -1,2 +1,2 @@
 K8s app deployment
-Local dev test file
+Local dev test yaml file
